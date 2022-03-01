@@ -23,7 +23,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Alt Text](https://github.com/kentomagento/twitter_api/blob/main/week4.gif)
 
 Twitter-api is a basic twitter app to read your tweets.
 
@@ -48,5 +48,5 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Alt Text](https://github.com/kentomagento/twitter_api/blob/main/week3.gif)
 
